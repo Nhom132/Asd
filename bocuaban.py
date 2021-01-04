@@ -7,3 +7,4 @@ def baitap(n):
         A = np.random.randint(10, size=(n, n))
     return A
 print(baitap(n))
+print('cuoingu')
